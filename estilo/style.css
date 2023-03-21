@@ -62,7 +62,7 @@ header > p {
     padding-left: 20px;
     padding-right: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);
-    margin-bottom: 20px;
+    padding-bottom: 50px;
 }
 
 nav {
@@ -206,7 +206,7 @@ footer {
     text-align: center;
     font-size: 1em;
     padding: 5px;
-    margin-top: 4px;
+    
 }
 
 
